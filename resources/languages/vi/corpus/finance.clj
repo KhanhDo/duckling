@@ -7,6 +7,10 @@
 "mười đô"
 "mười đô la"
 "mười đô mỹ"
+"10 usd"
+"10usd"
+"một chục đô"
+"mười usd"
 (money 10 "$")
 
 ;"under $15"
@@ -17,6 +21,8 @@
 
 "mười xen"
 "mười xu"
+"mười cent"
+"10 cent"
 (money 10 "cent")
 
 "$10,000"
